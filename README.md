@@ -4,10 +4,24 @@
   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/31214013?v=4">
 </p>
 
-My name is ConfusedOnCoffee. I started as a computational linguist. Finished my bachelor and moved on to web development. Doing that gave me experience with different frameworks and tools, which help people manage the web. My current goal is to self learn Rust.
+
+## Short Bio
+
+My name is Oskar. I started as a computational linguist at the LMU in Munich. Had a good time doing machine learning models with datasets and scrapping the internet. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web.
+
+So I moved on to web development to surprise user with good design and nice usage. I started learning CSS, HTML, VanillaJS, before I touched a big JS Framework, because I realized most webpages are just SPA (sadly).
+
+On the way, I also learned to work with the tools, which help developer manage the source code, to build the internet, which everyone (hopefully) loves and uses everyday. Still surprised by GIT everyday. #respect :) Thx
+
+
+## Data Privacy Guide
+
+Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools. Please stop collecting data...Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly..
+
 
 # Currently learning
 
+My current goal is to learn RUST. I think, the language has a great feature.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50">
 </div>
