@@ -7,21 +7,29 @@
 
 ## Short Bio
 
-My name is Oskar. I started as a computational linguist at the LMU in Munich. Had a good time doing machine learning models with datasets and scrapping the internet. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web.
+My name is Oskar. I started as a computational linguist and learning about national language processing at the LMU in Munich. Had a good time doing machine learning models with datasets and scrapping the internet. Back then Twitter API was useful and free. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web.
 
-So I moved on to web development to surprise users with good design and nice usage. I started learning CSS, HTML, VanillaJS, before I touched a big JS Framework, because I realized most webpages are just SPA (sadly). I realized, good design is really hard. #respect to the great UX designers out in the wild.
+So I moved on to web development to surprise users with good design and nice usage. I never delievered good UI design, but designer told me what how to design it, so people like it. I started learning CSS, HTML, VanillaJS, before I touched a big JS framework, because I realized most webpages are just SPA (sadly). I realized, good design is really hard. #respect to the great UX designers out in the wild. I have around >5 years of Angular experience now. Still doing it at my work.
 
-On the way, I also learned to work with the tools, which help developer manage the source code. Big thanks to emacs, helping me through the day and making me more productive. Still surprised by GIT everyday. #respect :) Thx to all the OpenSource Teams and FOSS is an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it.
+On the way, I also learned to work with the tools, which help developer manage the source code. Big thanks to emacs, helping me through the day and making me more productive. Still surprised by GIT everyday. #respect :) Thx to all the OpenSource teams and FOSS is an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it.
 
 
 ## Data Privacy Guide/Rant
 
-Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools. Please stop collecting data...Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly..
+Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools. Please stop collecting data...Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly.. If you want to have the source code of a project, I describe in my blog, please message me. I don't provide many open repos, because it's responibility, to have it checked for security and just putting somethhing in readmode once it public, doesn't make much sense.
 
 
 # Currently learning
 
-My current goal is to learn RUST. I think, the language has a great feature.
+My current goal is to learn RUST. I think, the language has a great future. Small applications, which test the different libs in the ecosystem. Actrix, warp, tokio, ....
+Thinks I tried, some of them a explained in a post (<a href="https://confusedoncoffee.github.io/landingpage/"> Github Blog page </a>):
+<ul>
+  <li>Matrix bot, which can take commands and response with the guardian text links</li>
+  <li>CLI, which allows actions on a Wekan board</li>
+  <li>CLI, which sends notificaitons to the UI for a time management approach (Pomodoro)</li>
+  <li>TODO list to track items to buy</li>
+  <li>Voting webpage to vote on subjects (resataurants) based on different criteria</li>
+</ul>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;background-color:white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50">
 </div>
@@ -103,7 +111,8 @@ My current goal is to learn RUST. I think, the language has a great feature.
   </p>
   <img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="40" height="40" />
   <p>
-    <a href="https://blog.confusedoncoffee.com/"> Blog </a>
-    <a href="https://blog.confusedoncoffee.com/feed.xml"> RSS </a>
+    <a href="https://blog.confusedoncoffee.com/"> External Blog </a>
+    <a href="https://confusedoncoffee.github.io/landingpage/"> Github Blog page </a>
+    <a href="https://rss.confusedoncoffee.com/"> Lemmy Instance for RSS </a>
   </p>
 
