@@ -35,7 +35,7 @@ Thinks I tried, some of them a explained in a post (<a href="https://confusedonc
 
 # Git Repostory
 
-Please check oout other projects: <a href="https://git.confusedoncoffee.com">Forgejo Git Repository</a>:
+Please check out other projects on my hosted Git server <a href="https://git.confusedoncoffee.com"><img src="https://forgejo.org/images/forgejo-wordmark.svg" title="Forgejo" alt="Forgejo" width="100" height="100" /></a>
 
 # STACK
 
@@ -106,38 +106,54 @@ Please check oout other projects: <a href="https://git.confusedoncoffee.com">For
   <a href="https://system76.com/pop"><img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" title="PopOs" alt="PopOs" width="100" height="100" /></a>
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="100" height="100" /></a>
   <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="100" height="100" /></a>
-  <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original-wordmark.svg" title="NixOS" alt="nixOs" width="100" height="100" /></a>
+  <a href="https://store.steampowered.com/steamdeck/"><img src="https://cdn.akamai.steamstatic.com/steamdeck/images/sd_logo_gradient_animated.png" title="SteamDeck" alt="SteamDeck" width="100" height="100" /></a>
 </div>
 
 
-# :wrench: Tools and recommendaations
+# :wrench: Tools and recommendations
   
 <div style="display: flex; flex-wrap: wrap; gap: 1%;">
+  <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original-wordmark.svg" title="NixOS" alt="nixOs" width="100" height="100" /></a>
   <a href="https://prettier.io/"><img src="https://prettier.io/icon.png" title="Prettier" alt="Prettier" width="100" height="100" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="100" height="100" /></a>
   <a href="https://podman.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-plain.svg" title="Podman" alt="Podman" width="100" height="100" /></a>
   <a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="100" height="100" /></a>
   <a href="https://www.gnu.org/software/emacs/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" title="Emacs" alt="emacs" width="100" height="100" /></a>
-  
-  <p> Playground: Raspberry, RP2, RP4 and RockPro (Shout out to Mr. M)
-  </p>
-  <p> Web server:</br>
-      <a href="https://www.nginx.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="100" height="100" /></a>
-  </p>
-  <p> Database:</br>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100" /></a>
-  </p>
-  <p> Obvious but still paying credit, where credit is due:</br>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" wwidth="100" height="100" /></a>
-  </p>
+  <ul>
+  <li></li><a href="https://www.winehq.org/">Wine Emulation Layer</a></li>
+  <li></li><a href="https://github.com/ValveSoftware/Proton">Compatibility tool for Steam Play based </a></li>
+  </ul>
 </div>
- 
 
- ## Data Privacy Guide/Rant
+# Hosting
+
+## Hardware
+
+<div style="display: flex; flex-wrap: wrap; gap: 1%;">
+  <ul>
+    <li>RP2</li>
+    <li>RP4</li>
+    <li>RockPro</li>
+    <li>...</li>
+  </ul>
+</div>
+
+## Software
+ 
+<div style="display: flex; flex-wrap: wrap; gap: 1%;">
+  <a href="https://forgejo.org/"><img src="https://forgejo.org/images/forgejo-wordmark.svg" title="Forgejo" alt="Forgejo" width="100" height="100" /></a>
+  <a href="https://www.nginx.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="100" height="100" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100" /></a>
+  <a href="https://github.com/matrix-org/synapse"><img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="100" height="100" /></a>
+  <a href="https://join-lemmy.org/"><img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="100" height="100" /></a>
+</div>
+
+## Data Privacy Guide/Rant
 
 Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools. Please stop collecting data...Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly.. If you want to have the source code of a project, I describe in my blog, please message me. I don't provide many open repos, because it's responibility, to have it checked for security and just putting somethhing in readmode once it public, doesn't make much sense.
 
- # Contact
+# Contact
  
  <p>
    Get in contact with me on matrix. For my IGN msg me on Github.
