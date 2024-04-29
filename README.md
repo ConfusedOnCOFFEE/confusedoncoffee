@@ -18,19 +18,24 @@ On the way, I also learned to work with the tools, which help developer manage t
 Thx to all the OpenSource teams and FOSS is an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it.
 
 
-# Currently learning
+# Current or past projects
 
 My current goal is to learn RUST. I think, the language has a great future. Small applications, which test the different libs in the ecosystem. Actrix, warp, tokio, ....
 Thinks I tried, some of them a explained in a post (<a href="https://confusedoncoffee.github.io/landingpage/">Github Blog page</a>):
 <ul>
-  <li>Matrix bot, which can take commands and response with the guardian text links</li>
-  <li>CLI, which allows actions on a Wekan board</li>
-  <li>CLI, which sends notificaitons to the UI for a time management approach (Pomodoro)</li>
-  <li>TODO list to track items to buy</li>
-  <li>Voting webpage to vote on subjects (resataurants) based on different criteria</li>
+  <li>Matrix bot, which can take commands and response with the guardian text links (Rust)</li>
+  <li>CLI, which allows actions on a Wekan board (Rust, clap) </li>
+  <li>CLI, which sends notificaitons to the UI for a time management approach (Pomodoro) (Rust, clap)</li>
+  <li>TODO list to track items to buy in various shops. (Rust, Rocket)</li>
+  <li>Voting webpage to vote on subjects (resataurants) based on different criteria (Rust, Rocket)</li>
+  <li>ChoreScore, competing on mandatory tasks against different teams to achieve awards and be ranked on a leader. (NG, Golang (viper,ginonic), Redis)</li>
 </ul>
+
+# In testing
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" style="background-color:white;" title="Rust" alt="Rust" width="150" height="150"></a>
+  <a href="https://www.redis.io/"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" style="background-color:white;" title="Redis" alt="Golang" width="100" height="100"></a>
+  <a href="https://www.go.dev/"><img src="https://go.dev/images/go-logo-white.svg" style="background-color:white;" title="Golang" alt="GoLang" width="100" height="100"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" style="background-color:white;color:white" title="Rust" alt="Rust" width="100" height="100"></a>
 </div>
 
 # Git Repostory
