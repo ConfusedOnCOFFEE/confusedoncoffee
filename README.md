@@ -7,20 +7,29 @@
 
 ## Short Bio
 
-My name is Oskar and I go with the IGN confusedoncoffee. I started as a computational linguist and learning about national language processing at the LMU in Munich. Had a good time doing machine learning models with datasets and scrapping the internet. Back then Twitter API was useful and free. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web.
+My name is Oskar and I go with the IGN confusedoncoffee. I started as a computational linguist and learned national language processing and machine learning at the LMU in Munich. I had a good time doing machine learning models with datasets and scrapping the internet. Back then Twitter API was useful and free. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web, so I chose the web development as my new interest.
 
-So I moved on to web development to surprise users with good design and nice usage. I never delievered good UI design, but designer told me what how to design it, so people like it. I started learning CSS, HTML, VanillaJS, before I touched a big JS framework, because I realized most webpages are just SPA (sadly).
+So I moved on to web development to surprise users with good design and nice usage. I never delievered good UI design, but designer told me how to design components, so people like it. I started learning CSS, HTML, VanillaJS, before I touched a big JS framework, because I realized most webpages are just SPA (sadly).
 
-I realized, good design is really hard. #respect to the great UX designers out in the wild. I have around >5 years of Angular experience now. Still doing it at my work.
+I realized, good design is really hard. #respect to the great UX designers out in the wild. I have around >5 years of Angular experience now. Still doing it at my work and I did a few dives into other JS frameworks and overall I think, it's always nice to see new things come up.
 
-On the way, I also learned to work with the tools, which help developer manage the source code. Big thanks to emacs, helping me through the day and making me more productive. Still surprised by GIT everyday. #respect :)
+Along the way, I also learned to work with the tools, which help developer manage the source code. Big thanks to Emacs, helping me through the day and making me more productive. I wrote a few packages, which help me to automate my workflow, I am rather sceptical about LSP. Still surprised by GIT everyday, such an awesome tool. #respect :)
 
-Thx to all the OpenSource teams and FOSS is an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it.
+Further, I want to thank all the OpenSource teams and FOSS as an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it, but I always try to supply tests and documentation, where possible.
+Doing a good documentation is another thing, I learn everyday.
+
+# Current interests
+
+Learning Rust (Actrix, warp, tokio, ....) and Golang (gin-gonic, viper, cobra).
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.go.dev/"><img src="https://go.dev/images/go-logo-white.svg" style="background-color:white;" title="Golang" alt="GoLang" width="100" height="100"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" style="background-color:white;color:white" title="Rust" alt="Rust" width="100" height="100"></a>
+  <a href="https://www.redis.io/"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" style="background-color:white;" title="Redis" alt="Golang" width="100" height="100"></a>
+</div>
 
 
-# Current or past projects
+# Past projects
 
-My current goal is to learn RUST. I think, the language has a great future. Small applications, which test the different libs in the ecosystem. Actrix, warp, tokio, ....
 Thinks I tried, some of them a explained in a post (<a href="https://confusedoncoffee.github.io/landingpage/">Github Blog page</a>):
 <ul>
   <li>Matrix bot, which can take commands and response with the guardian text links (Rust)</li>
@@ -28,19 +37,16 @@ Thinks I tried, some of them a explained in a post (<a href="https://confusedonc
   <li>CLI, which sends notificaitons to the UI for a time management approach (Pomodoro) (Rust, clap)</li>
   <li>TODO list to track items to buy in various shops. (Rust, Rocket)</li>
   <li>Voting webpage to vote on subjects (resataurants) based on different criteria (Rust, Rocket)</li>
-  <li>ChoreScore, competing on mandatory tasks against different teams to achieve awards and be ranked on a leader. (NG, Golang (viper,ginonic), Redis)</li>
+  <li>ChoreScore, competing on mandatory tasks against different teams to achieve awards and be ranked on a leader. (NG, Golang (viper,gin-gonic), Redis)</li>
 </ul>
 
-# In testing
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.redis.io/"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" style="background-color:white;" title="Redis" alt="Golang" width="100" height="100"></a>
-  <a href="https://www.go.dev/"><img src="https://go.dev/images/go-logo-white.svg" style="background-color:white;" title="Golang" alt="GoLang" width="100" height="100"></a>
-  <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" style="background-color:white;color:white" title="Rust" alt="Rust" width="100" height="100"></a>
-</div>
+
 
 # Git Repostory
 
-Please check out other projects on my hosted Git server <a href="https://git.confusedoncoffee.com"><img src="https://forgejo.org/images/forgejo-wordmark.svg" title="Forgejo" alt="Forgejo" width="100" height="100" /></a>
+Please check out other projects on my hosted Git server.
+
+<a href="https://git.confusedoncoffee.com"><img src="https://forgejo.org/images/forgejo-wordmark.svg" title="Forgejo" alt="Forgejo" width="100" height="100" /></a>
 
 # STACK
 
@@ -72,12 +78,12 @@ Please check out other projects on my hosted Git server <a href="https://git.con
 <div style="display: flex; flex-wrap: wrap; gap: 1%;">
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" title="Docusaurus" alt="Docusaurus" width="150" height="150" /></a>
   <div>
-    <p>Used for a while:</p>
+    <h3>Used for a while</h3>
     <a href="https://www.gatsbyjs.com/docs/glossary/static-site-generator/"><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-plain.svg" title="Gatsby" alt="Gatsby" width="100" height="100" /></a>
     <a href="https://gohugo.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" title="Hugo" alt="Hugo" width="100" height="100" /></a>
   </div>
   <div>
-    <p>Blogging:</p>
+    <h3>Blogging</h3>
     <a href="https://astro.build"><img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" title="Astro" alt="Astro" width="100" height="100" /></a>
     <a href="https://jekyllrb.com"><img src="https://jekyllrb.com/img/logo-2x.png" title="Jekyll" alt="Jekyll" width="100" height="100" /></a>
   </div>
@@ -115,7 +121,7 @@ Please check out other projects on my hosted Git server <a href="https://git.con
 </div>
 
 
-# :wrench: Tools and recommendations
+# :wrench: Tools
   
 <div style="display: flex; flex-wrap: wrap; gap: 1%;">
   <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original-wordmark.svg" title="NixOS" alt="nixOs" width="100" height="100" /></a>
@@ -125,12 +131,17 @@ Please check out other projects on my hosted Git server <a href="https://git.con
   <a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="100" height="100" /></a>
   <a href="https://www.gnu.org/software/emacs/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" title="Emacs" alt="emacs" width="100" height="100" /></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" wwidth="100" height="100" /></a>
-  <ul>
-  <li></li><a href="https://www.winehq.org/">Wine Emulation Layer</a></li>
-  <li></li><a href="https://github.com/ValveSoftware/Proton">Compatibility tool for Steam Play based </a></li>
-  </ul>
 </div>
 
+
+# Gaming
+
+Currently I own a Linux Machine with KDE Neon and an AMD GPU, which allows me to play nearly all my Steam games, which is awesome.
+<ul>
+  <li><a href="https://www.winehq.org/">Wine Emulation Layer</a></li>
+  <li><a href="https://github.com/ValveSoftware/Proton">Compatibility tool for Steam Play based </a></li>
+  </ul>
+  
 # Hosting
 
 ## Hardware
@@ -151,12 +162,13 @@ Please check out other projects on my hosted Git server <a href="https://git.con
   <a href="https://www.nginx.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="100" height="100" /></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100" /></a>
   <a href="https://github.com/matrix-org/synapse"><img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="100" height="100" /></a>
-  <a href="https://join-lemmy.org/"><img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="100" height="100" /></a>
 </div>
 
 ## Data Privacy Guide/Rant
 
-Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools. Please stop collecting data...Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly.. If you want to have the source code of a project, I describe in my blog, please message me. I don't provide many open repos, because it's responibility, to have it checked for security and just putting somethhing in readmode once it public, doesn't make much sense.
+Anyway, enough about me. I do a lot to preserve my privacy and try not go give everything to big companies to fill up their data pools.
+**Please stop collecting data...**
+Why is everyone using all these services, which collect everything...Most companies don't know what to do with this data anyway.. Srsly.. If you want to have the source code of a project, ,which I reference in my blog, please message me. I don't provide many open repos, because it's responibility, to have it checked for security and just putting somethhing in readmode once it public, doesn't make much sense, further the tests, test the important stuff and it's rather d2d business, I write tests, if sth. is broken to fix an issue. The approach is different here from my working environment.
 
 # Contact
  
