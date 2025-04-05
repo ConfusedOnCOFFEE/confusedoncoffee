@@ -24,7 +24,7 @@ Learning Rust (Actrix, warp, tokio, ....) and Golang (gin-gonic, viper, cobra).
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.go.dev/"><img src="https://go.dev/images/go-logo-white.svg" style="background-color:white;" title="Golang" alt="GoLang" width="100" height="100"></a>
   <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" style="background-color:white;color:white" title="Rust" alt="Rust" width="100" height="100"></a>
-  <a href="https://www.redis.io/"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" style="background-color:white;" title="Redis" alt="Golang" width="100" height="100"></a>
+  <a href="https://www.redis.io/"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" style="background-color:white;" title="Redis" alt="Redis" width="100" height="100"></a>
 </div>
 
 
@@ -58,8 +58,8 @@ Please check out other projects on my hosted Git server.
   <a href="https://angular.dev/"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" title="Angular" alt="Angular" width="100" height="100" /></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="100" height="100" />
-  <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="100" height="100" /></a>
-  <a href="https://eslint.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" title="EsLint" alt="EsLint" width="100" height="100" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ngrx/ngrx-original.svg" title="NGRX" alt="NGRX" width="100" height="100" />
+  <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" title="React" alt="React" width="100" height="100"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="100" height="100"/>
 </div>
 
@@ -70,12 +70,13 @@ Please check out other projects on my hosted Git server.
   <a href="https://karma-runner.github.io/latest/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg" title="Karma" alt="Karma" width="100" height="100" /></a>
   <a href="https://jasmine.github.io/"><img src="https://jasmine.github.io/images/jasmine-white-horizontal.svg" title="Jasmine" alt="Jasmine" width="100" height="100" /></a>
   <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="100" height="100" /></a>
-  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="100" height="100" /></a>
+  <a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="100" height="100" /></a>
 </div>
 
 ## Documentation
 
 <div style="display: flex; flex-wrap: wrap; gap: 1%;">
+  <a href="https://astro.build"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="150" height="150" /></a>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" title="Docusaurus" alt="Docusaurus" width="150" height="150" /></a>
   <div>
     <h3>Used for a while</h3>
@@ -105,7 +106,7 @@ Please check out other projects on my hosted Git server.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="100" height="100" /></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="100" height="100" /></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="100" height="100" /></a>
   <a href="https://argo-cd.readthedocs.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" wwidth="100" height="100" /></a>
   <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" wwidth="100" height="100" /></a>
 </div>
@@ -117,6 +118,7 @@ Please check out other projects on my hosted Git server.
   <a href="https://system76.com/pop"><img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" title="PopOs" alt="PopOs" width="100" height="100" /></a>
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="100" height="100" /></a>
   <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="100" height="100" /></a>
+  <a href="https://nix.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nixos/nixos-original.svg" title="NIXOS" alt="NIXOS" width="100" height="100"/></a>
   <a href="https://store.steampowered.com/steamdeck/"><img src="https://cdn.akamai.steamstatic.com/steamdeck/images/sd_logo_gradient_animated.png" title="SteamDeck" alt="SteamDeck" width="100" height="100" /></a>
 </div>
 
@@ -131,6 +133,8 @@ Please check out other projects on my hosted Git server.
   <a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="100" height="100" /></a>
   <a href="https://www.gnu.org/software/emacs/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" title="Emacs" alt="emacs" width="100" height="100" /></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" wwidth="100" height="100" /></a>
+    <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="100" height="100" /></a>
+  <a href="https://eslint.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" title="EsLint" alt="EsLint" width="100" height="100" /></a>
 </div>
 
 
@@ -148,6 +152,8 @@ Currently I own a Linux Machine with KDE Neon and an AMD GPU, which allows me to
 
 <div style="display: flex; flex-wrap: wrap; gap: 1%;">
   <ul>
+    <li>AMD RX7800</li>
+    <li>MacBook</li>
     <li>RP2</li>
     <li>RP4</li>
     <li>RockPro</li>
@@ -177,8 +183,7 @@ Why is everyone using all these services, which collect everything...Most compan
   </p>
   <a href="https://matrix.org/"><img src="https://avatars.githubusercontent.com/u/8418310?s=200&v=4" title="Matrix" alt="Matrix" width="100" height="100" /></a>
   <p>
-    <a href="https://blog.confusedoncoffee.com/"> External Blog </a>
+    <a href="https://blog.confusedoncoffee.com/"> Blog </a>
     <a href="https://confusedoncoffee.github.io/landingpage/"> Github Blog page </a>
-    <a href="https://rss.confusedoncoffee.com/"> Lemmy Instance for RSS </a>
   </p>
 
