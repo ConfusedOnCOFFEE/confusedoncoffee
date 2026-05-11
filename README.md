@@ -5,9 +5,17 @@
 </p>
 
 
-## Short Bio
+## Disclaimer
 
-My name is Oskar and I go with the IGN confusedoncoffee. I started as a computational linguist and learned national language processing and machine learning at the LMU in Munich. I had a good time doing machine learning models with datasets and scrapping the internet. Back then Twitter API was useful and free. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web, so I chose the web development as my new interest.
+This account is not used for my private projects.
+
+## Introduction
+
+My name is Oskar and I go with the IGN confusedoncoffee.
+
+## Bio
+
+I started as a computational linguist and learned national language processing and machine learning at the LMU in Munich. I had a good time doing machine learning models with datasets and scrapping the internet. Back then Twitter API was useful and free. After my bachelor thesis, I wanted to work in another field, where most internet users interact with the web, so I chose the web development as my new interest.
 
 So I moved on to web development to surprise users with good design and nice usage. I never delievered good UI design, but designer told me how to design components, so people like it. I started learning CSS, HTML, VanillaJS, before I touched a big JS framework, because I realized most webpages are just SPA (sadly).
 
@@ -18,7 +26,7 @@ Along the way, I also learned to work with the tools, which help developer manag
 Further, I want to thank all the OpenSource teams and FOSS as an important part of our developer culture and identity. I am doing my best to provide something as well, whoever wants it, but I always try to supply tests and documentation, where possible.
 Doing a good documentation is another thing, I learn everyday.
 
-# Current interests
+# Current private interests
 
 Learning Rust (Actrix, warp, tokio, ....) and Golang (gin-gonic, viper, cobra).
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -28,7 +36,7 @@ Learning Rust (Actrix, warp, tokio, ....) and Golang (gin-gonic, viper, cobra).
 </div>
 
 
-# Past projects
+# Past private projects
 
 Thinks I tried, some of them a explained in a post (<a href="https://confusedoncoffee.github.io/landingpage/">Github Blog page</a>):
 <ul>
@@ -42,7 +50,7 @@ Thinks I tried, some of them a explained in a post (<a href="https://confusedonc
 
 
 
-# Git Repostory
+# Private Git Repostory
 
 Please check out other projects on my hosted Git server.
 
